@@ -75,7 +75,7 @@ It is quite simple to deploy the go function on the AWS Lambda using [Aws Lambda
 
     It gives us the following response.
 
-    ```
+    ```json
     {
       "message": "Process Request ID 123.000000",
       "ok": true
