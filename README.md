@@ -89,3 +89,5 @@ It is quite simple to deploy the go function on the AWS Lambda using [Aws Lambda
 - [AWS Lambda Programming Model](https://docs.aws.amazon.com/lambda/latest/dg/programming-model-v2.html)
 - [AWS Lambda Applications](https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html)
 - [AWS Lambda Go Repository](https://github.com/aws/aws-lambda-go)
+
+TLDR; The link to my [medium article](https://medium.com/@wajahataliabid/deploy-go-function-on-aws-lambda-a2881eaecbe1).
