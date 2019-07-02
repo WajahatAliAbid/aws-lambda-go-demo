@@ -64,7 +64,7 @@ It is quite simple to deploy the go function on the AWS Lambda using [Aws Lambda
     zip -9 main.zip main
     ```
 
-6. Upload to lambda and test
+6. Upload to lambda and test using the following event argument.
 
     ```json
     {
